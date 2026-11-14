@@ -1,0 +1,14 @@
+# .NET
+**/bin/
+**/obj/
+**/.vs/
+**/appsettings.Development.json
+
+# React
+**/node_modules/
+**/build/
+**/dist/
+
+# Environment files and secrets
+.env
+.env.*
